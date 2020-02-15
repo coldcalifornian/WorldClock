@@ -12,11 +12,10 @@ The project includes four example scenes for a demonstration of the tool's featu
 
 This feature was written during the development of the game WildDrive. 
 
-<a href="https://discord.gg/x9s5HQc">Discord</a> 
-<a href="https://www.reddit.com/r/WildDrive/">Reddit</a>
-<a href="https://www.RealishGames.com">Website</a> 
+<a href="https://discord.gg/x9s5HQc">Discord</a>, 
+<a href="https://www.reddit.com/r/WildDrive/">Reddit</a>,
+<a href="https://www.RealishGames.com">Website</a>,
 Twitter: @WildDrive <br></br>
-
 ## Getting Started
 
 Clone this repo into an existing Unity project in the Assets folder.
@@ -32,10 +31,6 @@ Open the Unity test runner Window>General>Test Runner and press the 'RunAll' but
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
