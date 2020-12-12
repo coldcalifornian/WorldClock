@@ -10,12 +10,6 @@ An open source clock for Unity in C#. The main features are:
 </ul>
 The project includes four example scenes for a demonstration of the tool's features.
 
-This feature was written during the development of the game WildDrive. 
-
-<a href="https://discord.gg/x9s5HQc">Discord</a>, 
-<a href="https://www.reddit.com/r/WildDrive/">Reddit</a>,
-<a href="https://www.RealishGames.com">Website</a>,
-Twitter: @WildDrive <br></br>
 ## Getting Started
 
 Clone this repo into an existing Unity project in the Assets folder.
